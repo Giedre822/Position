@@ -1,0 +1,101 @@
+pagrindas{
+    background-color: rgb(241, 226, 226);
+    position: relative;
+    margin-top: ;
+    margin: 0 auto;
+    height: 710px;
+    width: 710px;}  
+
+.box{ 
+    width: 150px;
+    height: 150px;}
+.pirmas{
+    background-color: bisque;
+    position: absolute;
+    top: 22px;
+    left: 22px; }
+.antras{
+    background-color: bisque;
+    position: absolute;
+    top: 194px;
+    left: 22px;}
+.trecias{
+    background-color: bisque;
+    position: absolute;
+    top: 366px;
+    left: 22px;}
+    
+.ketvirtas{
+    background-color: bisque;
+    position: absolute;
+    top: 538px;
+    left: 22px;}
+.penktas{
+    background-color: bisque;
+    position: absolute;
+    top: 22px;
+    left: 194px;} 
+.sestas{
+    background-color: bisque;
+    position: absolute;
+    top: 194px;
+    left: 194px;}  
+.septintas{
+    background-color: bisque;
+    position: absolute;
+    top: 366px;
+    left: 194px;}
+.astuntas{
+    background-color: bisque;
+    position: absolute;
+    top: 538px;
+    left: 194px;}
+.devintas{
+    background-color: bisque;
+    position: absolute;
+    top: 22px;
+    left: 366px;} 
+.desimtas{
+    background-color: bisque;
+    position: absolute;
+    top: 194px;
+    left: 366px;}
+.vienuoliktas{
+    background-color: bisque;
+    position: absolute;
+    top: 366px;
+    left: 366px;}
+.dvyliktas{
+    background-color: bisque;
+    position: absolute;
+    top: 538px;
+    left: 366px;}
+.tryliktas{
+    background-color: bisque;
+    position: absolute;
+    top: 22px;
+    left: 538px;}
+.keturioliktas{
+    background-color: bisque;
+    position: absolute;
+    top: 194px;
+    left: 538px;}
+.penkioliktas{
+    background-color: bisque;
+    position: absolute;
+    top: 366px;
+    left: 538px;}
+.sesioliktas{
+    background-color: bisque;
+    position: absolute;
+    top: 538px;
+    left: 538px;}
+  
+.relative{
+    background-color: rgb(167, 111, 111);
+    position: relative;
+    top: 50px;
+    margin: 0 auto;
+    height: 710px;
+    width: 710px;}
+
